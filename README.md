@@ -1,7 +1,6 @@
-# design
 <html>
     <head>
-        <link href="design24.css" rel="stylesheet">
+        <link href="design24.css" rel="stylesheet" type="text/css">
     </head>
     <body>
         <header>
