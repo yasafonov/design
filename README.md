@@ -1,6 +1,6 @@
 <html>
     <head>
-        <link href="design24.css" rel="stylesheet" type="text/css">
+        <link href="design24.css" rel="stylesheet" text/css">
     </head>
     <body>
         <header>
