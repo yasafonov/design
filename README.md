@@ -1,7 +1,7 @@
 # design
 <html>
     <head>
-    <link href="design24/7.css" rel="stylesheet">
+    <link href="design24.css" rel="stylesheet">
     </head>
     <body>
         <header>
